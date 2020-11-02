@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyBuca</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="options">
+        <item>cafe</item>
+        <item>restaurant</item>
+        <item>cabstand</item>
+    </string-array>
+
+    <string-array name="optionsName">
+        <item>Cafes</item>
+        <item>Restaurants</item>
+        <item>Cabstands</item>
+    </string-array>
+    <string name="title_activity_place_detail">Map</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="text_unknown_distance">Unknown Distance</string>
+    <string name="text_warning">Warning</string>
+    <string name="text_open_gps">Please open GPS</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_getting_location_try_again">GPS is not ready.Please try again later.</string>
+</resources>

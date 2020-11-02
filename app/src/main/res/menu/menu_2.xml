@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mi_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        />
+
+    <item
+        android:id="@+id/by_name"
+        android:title="Sort by name"/>
+    <item
+        android:id="@+id/by_distance"
+        android:title="Sort by distance"/>
+    <item
+        android:id="@+id/by_user_rating"
+        android:title="Sort by user rating"/>
+
+
+</menu>
